@@ -1,0 +1,14 @@
+curriculo.pdf
+perfil.json
+vagas.json
+vagas_avaliadas.json
+vistas.json
+links_manuais.txt
+relatorio.html
+__pycache__/
+entrevista.py
+busca_vagas.py
+avaliar_vagas.py
+relatorio.py
+rodar_tudo.py
+iniciar.bat
